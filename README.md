@@ -1,2 +1,0 @@
-# angular-assignment
-UI assignment
